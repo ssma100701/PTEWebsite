@@ -13,4 +13,4 @@
 
 
 Route::get('/', 'PagesController@index');
-Route::get('/speaking', 'PagesController@speaking');
+route::get('/{section}','PagesController@section');

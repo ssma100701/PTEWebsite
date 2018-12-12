@@ -11,23 +11,8 @@ class PagesController extends Controller
         return view('index');
     }
 
-    public function speaking()
-    {
-        return view('speaking.index');
-    }
-
-    public function writing()
-    {
-        return view('writing.index');
-    }
-
-    public function reading()
-    {
-        return view('reading.index');
-    }
-
-    public function listening()
-    {
-        return view('listening.index');
+    public function section($section){
+        $qType = $section;
+        return $qType;
     }
 }

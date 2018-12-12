@@ -8,11 +8,11 @@
         </div>
         <div class="card-body">
             <ul class="list-unstyled mt-3 mb-4">
-                <a class="dropdown-item" href="#">RA</a>
-                <a class="dropdown-item" href="#">RS</a>
-                <a class="dropdown-item" href="#">DI</a>
-                <a class="dropdown-item" href="#">RL</a>
-                <a class="dropdown-item" href="#">ASQ</a>
+                <a class="dropdown-item" href="/ra">RA</a>
+                <a class="dropdown-item" href="/rs">RS</a>
+                <a class="dropdown-item" href="/di">DI</a>
+                <a class="dropdown-item" href="/rl">RL</a>
+                <a class="dropdown-item" href="/asq">ASQ</a>
             </ul>
         </div>
     </div>
