@@ -19,6 +19,8 @@ class CreateQuestionsTable extends Migration
             $table->text('question');
             $table->text('answser');
             $table->string('que_type');
+            $table->string('img');
+            $table->string('audio');
         });
     }
 

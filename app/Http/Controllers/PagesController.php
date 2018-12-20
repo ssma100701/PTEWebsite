@@ -13,6 +13,12 @@ class PagesController extends Controller
 
     public function section($section){
         $qType = $section;
-        return $qType;
+        return view('quiz',['qType'=>$qType]);
+    }
+
+     public function update(Request $request)
+    {
+        $file=$request->file('avatar')->store('public/avatar');
+        return $file;
     }
 }

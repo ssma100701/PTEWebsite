@@ -13,4 +13,9 @@
 
 
 Route::get('/', 'PagesController@index');
-route::get('/{section}','PagesController@section');
+route::get('/section/{section}','PagesController@section');
+route::post('/update','PagesController@update');
+route::get('/upload',function(){
+	return view('upload');
+});
+

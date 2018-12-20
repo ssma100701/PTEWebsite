@@ -22,8 +22,8 @@
         </div>
         <div class="card-body">
             <ul class="list-unstyled mt-3 mb-4">
-                <a class="dropdown-item" href="#">SWT</a>
-                <a class="dropdown-item" href="#">WE</a>
+                <a class="dropdown-item" href="/swt">SWT</a>
+                <a class="dropdown-item" href="/we">WE</a>
             </ul>
         </div>
     </div>
@@ -33,11 +33,11 @@
         </div>
         <div class="card-body">
             <ul class="list-unstyled mt-3 mb-4">
-                <a class="dropdown-item" href="#">RO</a>
-                <a class="dropdown-item" href="#">FIB</a>
-                <a class="dropdown-item" href="#">FIB2</a>
-                <a class="dropdown-item" href="#">MC</a>
-                <a class="dropdown-item" href="#">MC2</a>
+                <a class="dropdown-item" href="/ro">RO</a>
+                <a class="dropdown-item" href="/fib">FIB</a>
+                <a class="dropdown-item" href="/fib2">FIB2</a>
+                <a class="dropdown-item" href="/mc">MC</a>
+                <a class="dropdown-item" href="/mc2">MC2</a>
             </ul>
         </div>
     </div>
@@ -47,14 +47,14 @@
         </div>
         <div class="card-body">
             <ul class="list-unstyled mt-3 mb-4">
-                <a class="dropdown-item" href="#">SST</a>
-                <a class="dropdown-item" href="#">MC</a>
-                <a class="dropdown-item" href="#">FIB</a>
-                <a class="dropdown-item" href="#">HIS</a>
-                <a class="dropdown-item" href="#">MC2</a>
-                <a class="dropdown-item" href="#">SMW</a>
-                <a class="dropdown-item" href="#">HIW</a>
-                <a class="dropdown-item" href="#">WFD</a>
+                <a class="dropdown-item" href="/sst">SST</a>
+                <a class="dropdown-item" href="/mc">MC</a>
+                <a class="dropdown-item" href="/fib">FIB</a>
+                <a class="dropdown-item" href="/his">HIS</a>
+                <a class="dropdown-item" href="/mc2">MC2</a>
+                <a class="dropdown-item" href="/smw">SMW</a>
+                <a class="dropdown-item" href="/hiw">HIW</a>
+                <a class="dropdown-item" href="/wfd">WFD</a>
             </ul>
         </div>
     </div>
